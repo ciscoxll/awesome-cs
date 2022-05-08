@@ -1,1 +1,1 @@
-# AlgorithmPractice
+# awesome - cs
